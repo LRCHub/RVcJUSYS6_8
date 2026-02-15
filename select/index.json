@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "【Original MV】欲望/ V.W.P #26【神椿市建設中。】",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-15T14:57:39.320121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "欲望",
+      "artist": "369",
+      "has_synced": false,
+      "path": "select/01_欲望_369.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "欲望",
+      "artist": "YOSHII LOVINSON",
+      "has_synced": true,
+      "path": "select/02_欲望_YOSHII_LOVINSON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "欲望",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/03_欲望_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "欲望",
+      "artist": "ALI PROJECT",
+      "has_synced": false,
+      "path": "select/04_欲望_ALI_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "欲望∞",
+      "artist": "GRANRODEO",
+      "has_synced": true,
+      "path": "select/05_欲望∞_GRANRODEO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "欲望 ('00 mix and edited version)",
+      "artist": "佐野元春",
+      "has_synced": false,
+      "path": "select/06_欲望_('00_mix_and_edited_version)_佐野元春.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "欲望",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_欲望_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
